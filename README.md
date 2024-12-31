@@ -1,6 +1,6 @@
 # 👋 Assalamu aleykum! I'm Anvar
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bilgakhan&data=followers,repositories,stars,commits&theme=dark)](https://github.com/bilgakhan)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ozbekdev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/bilgakhan)
 
 ## 🚀 Full Stack Developer | PHP Symfony | Vue.js
 
