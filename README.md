@@ -29,9 +29,9 @@ I'm passionate about crafting robust and scalable web applications using cutting
 
 ### 📫 How to reach me
 
-- [Email](mailto:anvarcodes@gmail.com)
+- [Email](mailto:ozbekdev@gmail.com)
 - [Linkedin](https://linkedin.com/in/bilgakhan)
-- [Telegram](https://t.me/bilgakhan)
+- [Telegram](https://t.me/bilgakhan_dev)
 
 ### 📊 GitHub Stats
 
@@ -43,4 +43,4 @@ I'm passionate about crafting robust and scalable web applications using cutting
 
 ---
 
-⭐️ From [Anvar Bilgakhan](https://github.com/bilgakhan)
+⭐️ From [Ozbek Dev](https://github.com/ozbekdev)
