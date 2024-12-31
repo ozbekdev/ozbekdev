@@ -33,6 +33,8 @@ I'm passionate about crafting robust and scalable web applications using cutting
 - [Linkedin](https://linkedin.com/in/bilgakhan)
 - [Telegram](https://t.me/bilgakhan_dev)
 
+
+<!--
 ### 📊 GitHub Stats
 
 [![Anvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilgakhan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,6 +43,7 @@ I'm passionate about crafting robust and scalable web applications using cutting
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgakhan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 ---
 
 ⭐️ From [Ozbek Dev](https://github.com/ozbekdev)
